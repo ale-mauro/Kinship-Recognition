@@ -8,6 +8,6 @@ This notebook deals with the recognition of kinship through **neural networks**,
 # Execute the notebook
 In order to execute the notebook, you have to download the data from the Kaggle Competiton (https://www.kaggle.com/competitions/recognizing-faces-in-the-wild/data) and upload the data in Google Drive.
 * Upload the dataset from Kaggle in a folder "ComputerVisionProject/kinship-data/".
-* Upload the notebook the "ComputerVisionProject/" folder.
+* Upload the notebook in the "ComputerVisionProject/" folder.
 
 You have to choose the GPU runtime from Colab, then you can easly run all the cells of the notebook.
