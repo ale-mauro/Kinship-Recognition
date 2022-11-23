@@ -5,6 +5,8 @@ Kinship Recognition is an emerging task in Computer Vision that aims to find out
 
 This notebook deals with the recognition of kinship through **neural networks**, in particular using **Siamese Networks**. You can choose to use two main approaches to solve the problem: the first approach uses a **naive** Siamese network, while the second approach uses the **transfer-learning** technique to import **pre-trained networks** such as **DenseNet** and **ResNet**.
 
+You can read the full article here: https://medium.com/@ale-mauro/kinship-recognition-using-siamese-network-c9724f5a614
+
 # Execute the notebook
 In order to execute the notebook, you have to download the data from the Kaggle Competiton (https://www.kaggle.com/competitions/recognizing-faces-in-the-wild/data) and upload the data in Google Drive.
 * Upload the dataset from Kaggle in a folder "ComputerVisionProject/kinship-data/".
